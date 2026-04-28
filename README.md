@@ -6,6 +6,8 @@
 - 📫 Signal Processing
 - 📫 Gnuradio and SDR
 - 📫 Telecomunication
+- 📫 AI
+- 📫 Data Science
 
 <!---
 anzakupius/anzakupius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
